@@ -1,0 +1,2 @@
+E:\GitHub\jpgToBase64Html\ImageCropper.Sample\jpgToBase64Html.csproj;x86
+E:\GitHub\jpgToBase64Html\ImageCropper.UWP\ImageCropper.UWP.csproj;neutral

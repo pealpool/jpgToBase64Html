@@ -96,18 +96,12 @@ namespace jpgToBase64Html
                 SuggestedStartLocation = PickerLocationId.PicturesLibrary,
                 SuggestedFileName = "Crop_Image"
             };
-            picker.FileTypeChoices.Add("Png Picture", new List<string> { ".png", ".jpg" });
+            //picker.FileTypeChoices.Add("Png Picture", new List<string> { ".png", ".jpg" });
+            picker.FileTypeChoices.Add("Png Picture", new List<string> { ".jpg" });
             var file = await picker.PickSaveFileAsync();
             if (file != null)
             {
-                if (file.Name.Contains(".png"))
-                {
-                    await ImageCropper.SaveAsync(file, BitmapFileFormat.Png);
-                }
-                else
-                {
-                    await ImageCropper.SaveAsync(file, BitmapFileFormat.Jpeg);
-                }
+                await ImageCropper.SaveAsync(file, BitmapFileFormat.Jpeg);
             }
         }
 

@@ -10,6 +10,11 @@
 					</Candidate>
 				</NamedResource>
 				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xaml" uri="ms-resource://ImageCropper.UWP/Files/ImageCropper.UWP/Themes/Generic.xaml">
+						<Candidate type="Path">
+							<Value>ImageCropper.UWP\Themes\Generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
 					<NamedResource name="Generic.xbf" uri="ms-resource://ImageCropper.UWP/Files/ImageCropper.UWP/Themes/Generic.xbf">
 						<Candidate type="Path">
 							<Value>ImageCropper.UWP\Themes\Generic.xbf</Value>

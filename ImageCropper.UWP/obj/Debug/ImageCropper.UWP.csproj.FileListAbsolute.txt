@@ -31,8 +31,6 @@ C:\Users\admin\Desktop\ImageCropper-master\ImageCropper.UWP\obj\Debug\qualifiers
 C:\Users\admin\Desktop\ImageCropper-master\ImageCropper.UWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 E:\GitHub\jpgToBase64Html\ImageCropper.UWP\bin\Debug\ImageCropper.UWP\ImageCropper.UWP.xr.xml
 E:\GitHub\jpgToBase64Html\ImageCropper.UWP\bin\Debug\ImageCropper.UWP\Themes\Generic.xbf
-E:\GitHub\jpgToBase64Html\ImageCropper.UWP\bin\Debug\Themes\Generic.xbf
-E:\GitHub\jpgToBase64Html\ImageCropper.UWP\bin\Debug\ImageCropper.UWP.xr.xml
 E:\GitHub\jpgToBase64Html\ImageCropper.UWP\bin\Debug\ImageCropper.UWP.dll
 E:\GitHub\jpgToBase64Html\ImageCropper.UWP\bin\Debug\ImageCropper.UWP.pdb
 E:\GitHub\jpgToBase64Html\ImageCropper.UWP\bin\Debug\ImageCropper.UWP.pri
@@ -60,3 +58,5 @@ E:\GitHub\jpgToBase64Html\ImageCropper.UWP\obj\Debug\pri.resfiles.intermediate
 E:\GitHub\jpgToBase64Html\ImageCropper.UWP\obj\Debug\qualifiers.txt
 E:\GitHub\jpgToBase64Html\ImageCropper.UWP\obj\Debug\qualifiers.txt.intermediate
 E:\GitHub\jpgToBase64Html\ImageCropper.UWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\GitHub\jpgToBase64Html\ImageCropper.UWP\bin\Debug\ImageCropper.UWP\Themes\Generic.xaml
+E:\GitHub\jpgToBase64Html\ImageCropper.UWP\obj\Debug\ImageCropper.UWP.csproj.CoreCompileInputs.cache
